@@ -1,0 +1,35 @@
+div{ display: inline-block;
+    -webkit-box-shadow: 4px 4px 20px 0px rgba(0,0,0,0.8);
+box-shadow: 4px 4px 20px 0px #000000cc;
+border-radius: 10px;
+padding: 10px;
+border: 20px;
+}
+h1{
+    background-color: #8bc34a;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    background-color: white;
+    color: #8bc34a;
+    padding: 10px;
+    font-size: 20pt;
+    position: relative 100px;
+    text-transform: uppercase;
+}
+body{
+    font-family: 'lato', sansserif-;
+}
+.imagen-cancion{
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    background-color: #8bc34a;
+    border-radius: 10px;
+    font-weight: ;
+    margin: 20px;
+}
